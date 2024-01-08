@@ -1,0 +1,29 @@
+body{
+    background-color : #FAF7F7;
+}
+.jumbotron{
+    margin-top : 4.4rem;
+    margin-bottom : 4rem;
+    background-color : #FFFFf5;
+}
+
+.about{
+    padding : 4rem 2rem;
+    margin-bottom : 4rem;
+    background-color : #FFFff5;
+}
+
+.project{
+    padding : 4rem 2rem;
+    margin-bottom : 4rem;
+    background-color : #FFFff5;
+}
+
+.gambar:hover{
+    scale : 110%;
+    transition : 0.5s;
+}
+
+.font-khusus{
+    font-family: "Noto Serif", serif;
+}
